@@ -12,6 +12,6 @@ try:
     else:
         print('Error')
 except ValueError:
-    print('Error')
+    print('Error:Plz only insert integer Number')
 
 
